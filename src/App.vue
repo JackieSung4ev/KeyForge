@@ -635,9 +635,7 @@ const selectedCount = computed(() => {
       <!-- Top Header -->
       <header class="flex flex-col sm:flex-row sm:items-center justify-between pb-6 border-b border-slate-100 dark:border-slate-800 gap-4 mb-8">
         <div class="flex items-center gap-3">
-          <div class="w-12 h-12 rounded-xl bg-indigo-55 dark:bg-indigo-950/40 flex items-center justify-center text-indigo-600 dark:text-indigo-400">
-            <ShieldCheck class="w-6 h-6" />
-          </div>
+          <img src="/logo.png" alt="PassForge Logo" class="w-12 h-12 object-contain rounded-xl shadow-sm" />
           <span class="text-slate-855 dark:text-slate-100 font-bold text-lg md:text-xl">{{ t('title') }}</span>
         </div>
         
