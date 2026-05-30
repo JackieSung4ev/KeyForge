@@ -2,7 +2,7 @@
 
 PassForge is a clean, modern, premium SaaS-style client-side secure password generator. Built with Vue 3, Vite, TypeScript, and Tailwind CSS v4, it features a highly polished design based on modern UI aesthetics.
 
-![PassForge UI Mockup](./ref.png)
+![PassForge Screen Capture](./public/screencapture.png)
 
 ## ✨ Features
 
